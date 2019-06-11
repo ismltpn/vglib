@@ -1,2 +1,2 @@
 # vglib
-Vertical Graphics Creator in C
+Vector Graphics Creator in C
